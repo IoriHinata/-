@@ -39,7 +39,6 @@ android.logcat_filters = *:S python:D
 # Pin python-for-android to the latest stable release currently published.
 # This avoids pulling the active develop branch during the build.
 p4a.branch = master
-p4a.commit = 58d21141
 
 [buildozer]
 log_level = 2
